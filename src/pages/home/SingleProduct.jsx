@@ -26,7 +26,7 @@ const SingleProduct = () => {
   return (
     <div className="mt-28 max-w-screen-2xl container mx-auto xl:px-28 px-4">
       <div className="p-3 max-w-7xl m-auto bg-slate-100 ">
-        <div className='mt-2'>
+        <div className="mt-2">
           <a href="/" className="text-gray-600 ">
             Home
           </a>

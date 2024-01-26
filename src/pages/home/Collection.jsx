@@ -2,7 +2,7 @@ import React from 'react';
 
 const Collection = () => {
   return (
-    <div className='bg-[url("/src/assets/Images/Banner/collection-bg.png")] bg-cover bg-no-repeat bg-center xl:px-28 px-4 my-20 '>
+    <div className='bg-[url("/Images/collection-bg.png")] bg-cover bg-no-repeat bg-center xl:px-28 px-4 my-20 '>
       <div className="h-[580px] flex justify-between md:flex-row items-center">
         <div className="md:w-1/2"></div>
         <div className="md:w-1/2">

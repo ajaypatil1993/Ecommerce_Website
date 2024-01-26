@@ -40,11 +40,17 @@ const Navbar = () => {
 
         {/* account and shopping btn */}
         <div className="text-xl text-Black sm:flex items-center gap-8 hidden font-light">
-          <Link to="/" className="flex items-center gap-2 hover:text-orange-500">
+          <Link
+            to="/"
+            className="flex items-center gap-2 hover:text-orange-500"
+          >
             <FaUser />
             Account
           </Link>
-          <Link to="/" className="flex items-center gap-2 hover:text-orange-500">
+          <Link
+            to="/"
+            className="flex items-center gap-2 hover:text-orange-500"
+          >
             <FaShoppingBag />
             Shopping
           </Link>

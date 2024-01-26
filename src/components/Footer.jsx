@@ -12,9 +12,9 @@ const Footer = () => {
         <div className="mt-20 mb-10 flex flex-col md:flex-row items-start justify-between gap-8">
           {/* company info */}
           <div className="md:w-[400px]">
-          <h1 className="text-xl text-slate-900 font-bold">
-          ꧁•⊹٭V O G U E V E X٭⊹•꧂
-        </h1>
+            <h1 className="text-xl text-slate-900 font-bold">
+              ꧁•⊹٭V O G U E V E X٭⊹•꧂
+            </h1>
 
             <p className="my-8 text-Black/75">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

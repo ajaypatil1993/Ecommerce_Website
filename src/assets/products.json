@@ -4,7 +4,7 @@
     "title": "Adicolor Classics Joggers",
     "category": "Dress",
     "price": 63.85,
-    "image": "../../src/assets/Images/Products/product-1.png",
+    "image": "/Images/product-1.png",
     "status": "Best Sellers"
   },
   {
@@ -12,7 +12,7 @@
     "title": "Nike Sportswear Futura Luxe",
     "category": "Bag",
     "price": 130.0,
-    "image": "../../src/assets/Images/Products/product-2.png",
+    "image": "/Images/product-2.png",
     "status": "Best Sellers"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Geometric print Scarf",
     "category": "Dress",
     "price": 53.0,
-    "image": "../../src/assets/Images/Products/product-3.png",
+    "image": "/Images/product-3.png",
     "status": "Best Sellers"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Yellow Reserved Hoodie",
     "category": "Hoodies",
     "price": 63.85,
-    "image": "../../src/assets/Images/Products/product-4.png",
+    "image": "/Images/product-4.png",
     "status": "New Arriaval"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Basic Dress Green",
     "category": "Dress",
     "price": 236.0,
-    "image": "../../src/assets/Images/Products/product-5.png",
+    "image": "/Images/product-5.png",
     "status": "New Arriaval"
   },
   {
@@ -44,7 +44,7 @@
     "title": "Nike Air Zoom Pegasus",
     "category": "Shoe",
     "price": 198.0,
-    "image": "../../src/assets/Images/Products/product-6.png",
+    "image": "/Images/product-6.png",
     "status": "Best Sellers"
   },
   {
@@ -52,7 +52,7 @@
     "title": "Nike Repel Miler",
     "category": "Hoodies",
     "price": 120.5,
-    "image": "../../src/assets/Images/Products/product-7.png",
+    "image": "/Images/product-7.png",
     "status": "Best Sellers"
   },
   {
@@ -60,7 +60,7 @@
     "title": "Nike Sportswear Futura Luxe",
     "category": "Glasses",
     "price": 160.0,
-    "image": "../../src/assets/Images/Products/product-8.png",
+    "image": "/Images/product-8.png",
     "status": "Best Sellers"
   }
 ]
