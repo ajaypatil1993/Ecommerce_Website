@@ -1,4 +1,4 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/596460b3-4e12-4ee9-aa9c-00406d413530/deploy-status)](https://app.netlify.com/sites/reactjs-tailwindcss-ecommerce-website/deploys)
 ![Screenshot 2024-01-26 at 9 17 36 PM (2)](https://github.com/ajaypatil1993/react-ecommerce-website/assets/113763820/e5b2ef72-b286-4277-80f4-2c83f4900147)
 
 
